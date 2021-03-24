@@ -1,0 +1,23 @@
+{
+  "name": "backend-microservices",
+  "version": "1.0.0",
+  "description": "Este es un backend desarrollado con microservicios.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Max-1992/backend-microservices.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Max-1992/backend-microservices/issues"
+  },
+  "homepage": "https://github.com/Max-1992/backend-microservices#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.0.4"
+  }
+}
